@@ -2,3 +2,4 @@
 
 - feature-AAAA
 - fix-B
+- feature-C
